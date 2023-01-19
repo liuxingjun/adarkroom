@@ -93,7 +93,7 @@
 
 			// Check for mobile
 			if(Engine.isMobile()) {
-				window.location = 'mobileWarning.html';
+				window.location = 'mobile.html';
 			}
 
 			Engine.disableSelection();
